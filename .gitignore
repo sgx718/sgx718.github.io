@@ -1,12 +1,6 @@
 *.gem
-*.sh
-assets/img
-assets/favicons
 .bundle
+.jekyll-cache
 .sass-cache
 _site
-_posts
-_config.yml
-*.md
-!README.md
 Gemfile.lock
