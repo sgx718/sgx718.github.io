@@ -1,4 +1,4 @@
 SGoers
 
 Personal website
-Jekyll reusing forkable open source code from github
+Jekyll reusing Tom Preston-Werner's blog's design
